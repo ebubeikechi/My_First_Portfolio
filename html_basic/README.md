@@ -1,4 +1,4 @@
-Tasks
+<!-- Tasks
 0. Basic Structure
 mandatory
 Create the most basic, simple and valid HTML file called base_index.html
@@ -125,4 +125,4 @@ Repo:
 
 GitHub repository: My_First_Portfolio
 Directory: portfolio
-File: index.html
+File: index.html -->
